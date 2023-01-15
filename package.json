@@ -7,16 +7,27 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@expo/vector-icons": "^13.0.0",
     "expo": "~46.0.19",
+    "expo-constants": "~13.2.4",
     "expo-status-bar": "~1.4.0",
     "react": "18.0.0",
     "react-native": "0.69.6",
-    "expo-constants": "~13.2.4",
-    "@expo/vector-icons": "^13.0.0",
     "react-native-paper": "4.11.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.12.9"
+    "@babel/core": "^7.12.9",
+    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint-plugin-import": "^2.25.3",
+    "eslint-plugin-react": "^7.31.11",
+    "eslint-plugin-react-native": "^4.0.0",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "prettier": "^2.8.3"
   },
-  "private": true
+  "private": true,
+  "name": "FocusTime",
+  "version": "1.0.0",
+  "repository": "https://github.com/itsalysialynn/FocusTime.git",
+  "author": "Alysia <alysia@bench.co>",
+  "license": "MIT"
 }
