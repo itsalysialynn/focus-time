@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
-    "eslint": "^7.32.0 || ^8.2.0",
+    "eslint": "^8.2.0",
     "eslint-plugin-import": "^2.25.3",
     "eslint-plugin-react": "^7.31.11",
     "eslint-plugin-react-native": "^4.0.0",
@@ -28,6 +28,6 @@
   "name": "FocusTime",
   "version": "1.0.0",
   "repository": "https://github.com/itsalysialynn/FocusTime.git",
-  "author": "Alysia <alysia@bench.co>",
+  "author": "Alysia <itsalysialynn+focustime@gmail.com>",
   "license": "MIT"
 }

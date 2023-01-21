@@ -11,18 +11,16 @@ const Home = ({ setCurrentTask, taskList }) => {
 
   return (
     <View style={styles.container}>
-      <>
-        <Text style={styles.header}>Focus Time</Text>
-        <View style={styles.inputContainer}>
-          <Input
-            value={focusTask}
-            onChangeText={setFocusTask}
-            placeholder="What do you want to focus on?"
-          />
-          <Button onPress={() => setCurrentTask(focusTask)} title="Start" />
-        </View>
-        <TaskList taskList={taskList} />
-      </>
+      <Text style={styles.header}>Focus Time</Text>
+      <View style={styles.inputContainer}>
+        <Input
+          value={focusTask}
+          onChangeText={setFocusTask}
+          placeholder="What do you want to focus on?"
+        />
+        <Button onPress={() => setCurrentTask(focusTask)} title="Start" />
+      </View>
+      <TaskList taskList={taskList} />
     </View>
   );
 };

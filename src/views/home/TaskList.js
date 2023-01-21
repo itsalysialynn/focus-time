@@ -10,7 +10,7 @@ const TaskList = ({ taskList }) => (
     {taskList.length > 0 ? (
       taskList.map(task => <Text>{task}</Text>)
     ) : (
-      <Text style={styles.taskListEmptyText}>No tasks completed yet.</Text>
+      <Text style={styles.taskListEmptyText}>No tasks completed yet</Text>
     )}
   </View>
 );
