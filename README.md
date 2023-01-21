@@ -43,4 +43,4 @@ yarn android
 
 ## Final Product
 
-!["Screenshot of the home page"](https://github.com/itsalysialynn/FocusTime/public/images/Home.png)
+!["Screenshot of the home page"](./public/images/Home.png))
