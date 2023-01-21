@@ -40,3 +40,7 @@ Android simulator:
 ```bash
 yarn android
 ```
+
+## Final Product
+
+!["Screenshot of the home page"](https://github.com/itsalysialynn/FocusTime/public/images/Home.png)
