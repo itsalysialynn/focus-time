@@ -43,4 +43,4 @@ yarn android
 
 ## Final Product
 
-!["Screenshot of the home page"](./public/images/Home.png))
+<img src="./public/images/Home.png" alt="Screenshot of the home page" width="200"/>
